@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I am a recent graduate from Syracuse University with Master's in Engineering Management(specialization in Data Science) with 1+ year of experience in IT industry specializing in Data Science and Analysis using Python, SQL and R programming and web application development using Flask and Streamlit (python)
+## I am a recent graduate from Syracuse University with Master's in Engineering Management with 1+ year of experience in IT industry specializing in Data Science, Machine Learning and Analysis using Python, SQL and R programming.
 
 ## Profile
 * 1+ year of experience in Software Industry.
